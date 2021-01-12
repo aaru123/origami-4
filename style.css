@@ -1,0 +1,50 @@
+.aruu{
+        background-color: gray;
+    color:black
+    
+    }
+    .aruu7{
+    display: flex;
+    justify-content: space-evenly;
+    }
+    .aruu8{
+        display: flex;
+        justify-content: space-evenly;
+        }
+.aruu1{
+    background-color: white;
+}
+
+.aruu2{
+    background-color: white;
+}
+.aruu3{
+    background-color: white;
+}
+.aruu4{
+    background-color: white;
+}
+.aruu5{
+    background-color: white;
+}
+.aruu6{
+    background-color: white;
+}
+.h{
+   background-color: black;
+   color: white;
+}
+img {
+     
+border-radius: 30%;
+border:black solid ;
+
+
+}
+img:hover{
+    opacity:0.5;
+}
+
+img.rounded-corners {
+border-radius: 30px;
+}
